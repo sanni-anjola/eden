@@ -1,5 +1,5 @@
 class user:
-    def __int__(self, name,emaill,address,password,phone):
+    def __int__(self, name,email,address,password,phone):
         self.fullName = name;
         self .email = emaill
         self.address = address
